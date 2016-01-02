@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "browser",
+        "jquery"
+    ],
+    "loadEagerly": [
+        "editor-framework/core/*.js",
+        "editor-framework/share/*.js",
+        "editor-framework/page/**/*.js",
+        "engine-framework/src/**/*.js",
+        "asset-db/**/*.js"
+    ],
+    "plugins": {
+        "node" : {}
+    }
+}

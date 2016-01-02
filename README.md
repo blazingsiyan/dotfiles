@@ -1,2 +1,3 @@
-# dotfiles
-all my .
+dotfiles
+========
+all my .files
